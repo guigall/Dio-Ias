@@ -15,7 +15,7 @@ Essa versão oferece mais clareza, fluidez e detalhes sobre o uso das IAs e os t
 ## 🤖 Tecnologias Utilizadas
 
 E-book:
-- Gamma IA **(https://gamma.app)**
+- Gamma IA **[GammaApp](https://gamma.app)**
 - ChatGpt **[ChatGPT](https://chat.openai.com)** para as ideias e assuntos.
   
 
