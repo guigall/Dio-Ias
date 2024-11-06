@@ -13,7 +13,11 @@ Foram aproveitadas diversas plataformas e ferramentas gratuitas de IA disponíve
 Essa versão oferece mais clareza, fluidez e detalhes sobre o uso das IAs e os tipos de conteúdos criados, mantendo um tom profissional.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+E-book:
+- Gamma IA **(https://gamma.app)**
+- ChatGpt **[ChatGPT](https://chat.openai.com)** para as ideias e assuntos.
+  
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
