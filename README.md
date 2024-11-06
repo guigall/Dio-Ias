@@ -15,10 +15,13 @@ Essa versão oferece mais clareza, fluidez e detalhes sobre o uso das IAs e os t
 ## 🤖 Tecnologias Utilizadas
 
 E-book:
-- Gamma IA **[GammaApp](https://gamma.app)**
+- Gamma IA **[GammaApp](https://gamma.app)** para a criação do e-book.
 - ChatGpt **[ChatGPT](https://chat.openai.com)** para as ideias e assuntos.
   
-
+Vídeo:
+- ChatGpt **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- D-Id **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
