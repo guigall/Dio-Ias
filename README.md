@@ -4,9 +4,6 @@
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
-### Template
-
-
 # Sonhos Sintéticos: IA Generativa e o Futuro da Estética Digital
 
 ## 📒 Descrição
