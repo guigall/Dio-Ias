@@ -28,12 +28,10 @@ Vídeo:
 E-book:
 - Pedi ao ChatGpt 10 assuntos em altas na atualidade. Selecionei a que mais me agradou. Após isso, pedi que ele criasse uma breve explicação sobre.
 - Com a explicação criada e em mãos. Selecione o estilo de livro e o título. A IA criou todo o esboço e páginas. Somentei precisei alterar aquilo que mais agradava.
-- 
+  
 ## 🚀 Resultados
 
 Vídeo: https://studio.d-id.com/share?id=1c748789533ba619fccbc1fc988d00d7&utm_source=copy;  
 E-book: https://gamma.app/docs/Maneiras-de-Emagrecer-y4iftkhggbnl8hy
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 
